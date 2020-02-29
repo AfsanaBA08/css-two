@@ -1,0 +1,35 @@
+*{
+    padding: 0%s;
+    background-color: rgb(233, 214, 217);
+
+}
+.we{
+    color: palevioletred;
+    text-align: center;
+}
+.img1{
+    text-align: left;
+}
+.img2{
+    text-align: center;
+}
+.aa{
+    text-align: center;
+}
+.ab{
+    height: 8vh;
+    width: 40vw;
+    border-radius: 2rem;
+    padding-left: 2rem;
+    border-color: hsl(0, 91%, 93%);
+    border-width: 1px;
+}
+.mn{
+    height: 7vh;
+    width: 2%;
+    border-radius: 1rem;
+    background: linear-gradient(135deg,hsl(0, 80%, 86%),hsl(0, 74%, 74%));
+}
+.para{
+    color: palevioletred;
+}
